@@ -9,11 +9,5 @@
         "outputDirectory": "dist"
       }
     }
-  ],
-  "routes": [
-    {
-      "src": "/.*",
-      "dist": "/index.html"
-    }
   ]
 }
