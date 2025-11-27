@@ -56,7 +56,7 @@ function App() {
         isOpen={showCTAPopup}
         onClose={handleCloseCTAPopup}
         ctaUrl="https://jcm-tecnologia.vercel.app"
-        message="Junte-se à nossa comunidade no Discord para novidades e suporte!"
+        message="Para novidades e suporte!"
         cardBackgroundImage={ctaImage} // Pass the image as background
       />
 
