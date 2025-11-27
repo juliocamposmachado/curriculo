@@ -1,5 +1,7 @@
 # 🚀 Currículo Digital - Julio Cesar Campos Machado
 
+<img width="1337" height="644" alt="image" src="https://github.com/user-attachments/assets/bac2004d-21ad-43a6-97aa-00fd68761c26" />
+
 Este repositório contém o código-fonte do meu **currículo digital interativo**, desenvolvido para apresentar minha trajetória profissional, habilidades técnicas e projetos realizados ao longo de mais de 20 anos na área de Tecnologia da Informação.
 
 ## 🌟 Sobre Mim
