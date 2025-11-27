@@ -122,7 +122,7 @@ export default function Hero() {
 
           <h1 className="text-6xl md:text-8xl font-bold text-white mb-6">
             <span className="bg-clip-text text-transparent bg-gradient-to-r from-blue-400 via-cyan-400 to-blue-600 animate-gradient">
-              Julio Machado
+              Julio Campos Machado
             </span>
           </h1>
 
